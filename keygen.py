@@ -1,7 +1,7 @@
 '''
 Keygen for https://www.trisunsoft.com/pc-work-break/ Version 8.0
 Author: v-i-k-r-a-m (v-i-k-r-a-m@krypdon.dev)
-
+run at https://pc-workbreak-keygen.f9fella.repl.run/
 '''
 import functools
 import random
